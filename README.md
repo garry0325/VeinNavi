@@ -7,6 +7,8 @@ An image-guided robot for phlebotomy to reduce needle stick injuries in resource
 
 _This project was selected as finalist in 2018 EMedIC Global at Chinese University of Hong Kong._
 
+[Click here to watch the full demo](https://youtu.be/FtPP2xyqE4A)
+
 <img src="https://raw.githubusercontent.com/garry0325/VeinNavi/main/Images/motor.gif" height="150"> <img src="https://raw.githubusercontent.com/garry0325/VeinNavi/main/Images/tubes.gif" height="150"> <img src="https://raw.githubusercontent.com/garry0325/VeinNavi/main/Images/interface.gif" height="150"> <img src="https://raw.githubusercontent.com/garry0325/VeinNavi/main/Images/pin.gif" height="150">
 
 ## Motivation
